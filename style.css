@@ -1,1 +1,28 @@
+body{
+	
+}
 
+.naglowek{
+	height: 50px;
+	background-color: grey;
+}
+
+.lewy{
+	height: 400px;
+	width: 25%;
+	float: left;
+	background-color: green;	
+}
+
+.prawy{
+	height: 400px;
+	width: 75%;
+	float: left;
+	background-color: snow;	
+}
+
+.stopka{
+	height: 40px;
+	clear: both;
+	background-color: steelblue;		
+}
